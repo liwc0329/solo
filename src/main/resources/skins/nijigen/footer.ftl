@@ -19,18 +19,9 @@
 -->
 <div class="icon__up" onclick="Util.goTop()"></div>
 <footer class="footer">
-    &copy; ${year}
-    <a href="${servePath}">${blogTitle}</a>
-    ${footerContent}
-    <div class="fn__none"></div>
+    &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
     <br/>
-
-    Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>
-    <div class="fn__none"></div>
-    &nbsp; &heartsuit;  &nbsp;
-    Theme ${skinDirName}
-    <sup>[<a href="https://github.com/ZEROKISEKI/hexo-theme-gal" target="_blank">ref</a>]</sup>
-    by <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>
+    许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
 </footer>
 <div class="icon-up" onclick="Util.goTop()"></div>
 

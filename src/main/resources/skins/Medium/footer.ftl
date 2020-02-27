@@ -24,9 +24,7 @@
             <#include "../../common-template/macro-user_site.ftl"/>
             <@userSite dir="n"/>
             <div class="fn-right">
-                &copy; ${year}
-                <a href="${servePath}">${blogTitle}</a>
-                ${footerContent}
+
             </div>
         </div>
         <div class="fn-clear">
@@ -36,8 +34,9 @@
                 &nbsp; ${onlineVisitorCnt} ${onlineVisitorLabel}
             </#if>
             <div class="fn-right">
-                Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a> •
-                Theme ${skinDirName} by <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>
+                &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+                <br/>
+                许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
             </div>
         </div>
     </footer>

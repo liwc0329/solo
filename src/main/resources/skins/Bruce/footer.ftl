@@ -21,13 +21,9 @@
 <div class="footer">
     <@userSite dir="n"></@userSite>
     <br>
-    &copy; ${year} <a href="${servePath}">${blogTitle}</a> ${footerContent} Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>
-    <div>
-        Theme ${skinDirName}
-        by
-        <a rel="friend" href="https://88250.b3log.org" target="_blank">88250</a>
-    </div>
-    <div><em>All rights reserved.</em></div>
+    &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+    <br/>
+    许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
 </div>
 
 <#include "../../common-template/label.ftl">

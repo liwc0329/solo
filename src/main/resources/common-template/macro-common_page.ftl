@@ -42,7 +42,9 @@
     </div>
     <div class="footerWrapper">
         <div class="footer">
-            Powered by <a href="https://b3log.org" target="_blank">B3log 开源</a> • <a href="https://solo.b3log.org" target="_blank">Solo</a> ${version}
+            &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+            <br/>
+            许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
         </div>
     </div>
 </div>

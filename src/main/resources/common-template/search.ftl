@@ -103,7 +103,9 @@ No Result, Return to <a href="${servePath}">Index</a> or <a href="https://hacpai
 
 <div class="footerWrapper">
     <div class="footer">
-        Powered by <a href="https://b3log.org" target="_blank">B3log 开源</a> • Solo ${version}
+        &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+        <br/>
+        许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
     </div>
 </div>
 </body>

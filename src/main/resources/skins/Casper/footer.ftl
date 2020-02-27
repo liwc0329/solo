@@ -20,26 +20,21 @@
 <footer class="footer">
     <div class="wrapper fn__clear">
         <div class="fn__left">
-            &copy; ${year}
-            <a href="${servePath}">${blogTitle}</a>
-            ${footerContent} &nbsp;•&nbsp;
-            Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>
-            <br>
-            Theme ${skinDirName}
-            <sup>[<a href="https://github.com/TryGhost/Casper" target="_blank">ref</a>]</sup>
-            by <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>
+            &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+            <br/>
+            许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
         </div>
         <div class="fn__right">
             <a href="${servePath}/tags.html" rel="section">
-            ${allTagsLabel}
+                ${allTagsLabel}
             </a>
             &nbsp;•&nbsp;
             <a href="${servePath}/archives.html">
-            ${archiveLabel}
+                ${archiveLabel}
             </a>
             &nbsp;•&nbsp;
             <a rel="archive" href="${servePath}/links.html">
-            ${linkLabel}
+                ${linkLabel}
             </a>
             <br>
             ${statistic.statisticPublishedBlogArticleCount} ${articleLabel} &nbsp;

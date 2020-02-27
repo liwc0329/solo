@@ -23,20 +23,16 @@
             <a href="${servePath}">${blogTitle}</a>
             <#if !staticSite> • ${onlineVisitor1Label}${onlineVisitorCnt}</#if>
             <div class="fn-right">
-            <#include "../../common-template/macro-user_site.ftl"/>
-            <@userSite dir="n"/>
+                <#include "../../common-template/macro-user_site.ftl"/>
+                <@userSite dir="n"/>
             </div>
         </div>
         <div class="fn-clear">
-            &copy; ${year}
-            <a href="${servePath}">${blogTitle}</a>
-            ${footerContent}
-            Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>
+            &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+            <br/>
+            许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
 
             <div class="fn-right">
-                Theme ${skinDirName}
-                <sup>[<a href="https://github.com/iissnan/hexo-theme-next" target="_blank">ref</a>]</sup>
-                by <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>
             </div>
         </div>
     </div>

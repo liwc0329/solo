@@ -24,11 +24,9 @@
         <@userSite dir="ne"/>
         </div>
         <div class="left">
-            <span>&copy; ${year}</span> <a href="${servePath}">${blogTitle}</a> ${footerContent}
-            Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>&nbsp;&nbsp;
-            Theme ${skinDirName}
-            <sup>[<a href="http://themify.me/demo/themes/postline/" target="_blank">ref</a>]</sup>
-            by <a rel="friend" href="http://vanessa.b3log.org" target="_blank">Vanessa</a>.
+            &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+            <br/>
+            许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
         </div>
         <div class="right fn-clear">
             <span class="left">

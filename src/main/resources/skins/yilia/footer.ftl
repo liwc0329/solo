@@ -20,9 +20,6 @@
 <footer class="footer">
     <div class="fn-clear">
         <div class="fn-left">
-            Theme ${skinDirName}
-            by
-            <a rel="friend" href="http://vanessa.b3log.org" target="_blank">Vanessa</a>
         </div>
         <span class="fn-right">
             ${viewCount1Label}<span data-uvstaturl="${servePath}">${statistic.statisticBlogViewCount}</span>
@@ -34,12 +31,9 @@
         </span>
     </div>
     <div class="fn-clear">
-        &copy; ${year}
-        <a href="${servePath}">${blogTitle}</a>
-        ${footerContent}
-        <span class="fn-right">
-            Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>
-        </span>
+        &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+        <br/>
+        许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
     </div>
     <span onclick="Util.goTop()" class="icon-goup"></span>
 </footer>

@@ -22,9 +22,9 @@
     <a href="${servePath}">${blogTitle}</a>
     ${footerContent}
     <span class="fn-right">
-        Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>&nbsp;&nbsp;
-        Theme ${skinDirName}
-        by <a rel="friend" href="http://vanessa.b3log.org" target="_blank">Vanessa</a>.
+        &copy;Copyright 1998 - 2021 g7go. All Rights Reserved
+    <br/>
+    许可证号: <a href="http://beian.miit.gov.cn/" target="_blank">冀ICP备18008828号-2</a>
     </span>
 </footer>
 <#include "../../common-template/label.ftl">
